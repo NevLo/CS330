@@ -1,5 +1,5 @@
 package OrderTypes;
 
-public interface OrderType {
-
+public abstract interface OrderType {
+	public void printOrder();
 }
