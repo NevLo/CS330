@@ -1,9 +1,5 @@
 package Decorators;
-import Trees.BalsamFir;
-import Trees.BlueSpruce;
-import Trees.DouglasFir;
-import Trees.FraserFir;
-import Trees.Tree;
+import Trees.*;
 
 public abstract class TreeDecorator extends Tree {
 	protected Tree tree;
