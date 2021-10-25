@@ -1,9 +1,14 @@
-#UNR CS330 - DESIGN PATTERNS
+# UNR CS330
+# - DESIGN PATTERNS
+# EXERCISE 1
 #
-#EXERCISE 1
-#
-#AUTHOR(S):
+# AUTHOR(S):
 # CHRISTIAN PILLEY
 #
 #
-# PATTERN: 
+# PATTERN: NONE (OOP REFRESHER)
+# ASSIGNMENT DETAILS:
+# Implement Car and Bike Classes, that both inherit from Vehicle
+# Subclass different aspects of them (wheels, pedals, etc.)
+# Create UML
+#
